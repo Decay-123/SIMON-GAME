@@ -1,2 +1,2 @@
 # SIMON-GAME
-Built it using HTML, CSS and JAVASCRIPT
+Built it using HTML, CSS and JAVASCRIPT.
